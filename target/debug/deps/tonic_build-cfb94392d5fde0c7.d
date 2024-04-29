@@ -1,0 +1,10 @@
+C:\Users\ASUSTeK\Documents\Fasilkom\SEM 4\Adpro\Tutorial 9\grpc-tutorial\target\debug\deps\libtonic_build-cfb94392d5fde0c7.rmeta: C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\lib.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\prost.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\client.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\server.rs
+
+C:\Users\ASUSTeK\Documents\Fasilkom\SEM 4\Adpro\Tutorial 9\grpc-tutorial\target\debug\deps\libtonic_build-cfb94392d5fde0c7.rlib: C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\lib.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\prost.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\client.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\server.rs
+
+C:\Users\ASUSTeK\Documents\Fasilkom\SEM 4\Adpro\Tutorial 9\grpc-tutorial\target\debug\deps\tonic_build-cfb94392d5fde0c7.d: C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\lib.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\prost.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\client.rs C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\server.rs
+
+C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\lib.rs:
+C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\prost.rs:
+C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\client.rs:
+C:\Users\ASUSTeK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tonic-build-0.7.2\src\server.rs:

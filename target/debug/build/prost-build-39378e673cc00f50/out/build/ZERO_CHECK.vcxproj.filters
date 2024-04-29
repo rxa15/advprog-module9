@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUSTeK\Documents\Fasilkom\SEM 4\Adpro\Tutorial 9\grpc-tutorial\target\debug\build\prost-build-39378e673cc00f50\out\build\CMakeFiles\685349340dd621be68df2966d83eb8b2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{55562C37-3C22-301B-BFAD-6AE757319831}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

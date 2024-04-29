@@ -1,0 +1,10 @@
+^C:\USERS\ASUSTEK\DOCUMENTS\FASILKOM\SEM 4\ADPRO\TUTORIAL 9\GRPC-TUTORIAL\TARGET\DEBUG\BUILD\PROST-BUILD-39378E673CC00F50\OUT\BUILD\CMAKEFILES\685349340DD621BE68DF2966D83EB8B2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ASUSTeK/.cargo/registry/src/index.crates.io-6f17d22bba15001f/prost-build-0.10.4/third-party/protobuf/cmake "-BC:/Users/ASUSTeK/Documents/Fasilkom/SEM 4/Adpro/Tutorial 9/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ASUSTeK/Documents/Fasilkom/SEM 4/Adpro/Tutorial 9/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/protobuf.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\ASUSTEK\DOCUMENTS\FASILKOM\SEM 4\ADPRO\TUTORIAL 9\GRPC-TUTORIAL\TARGET\DEBUG\BUILD\PROST-BUILD-39378E673CC00F50\OUT\BUILD\CMAKEFILES\685349340DD621BE68DF2966D83EB8B2\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
